@@ -12,7 +12,7 @@
     "README.md"
   ],
   "dependencies": {
-    "@minify-html/node": "^0.10.8"
+    "@minify-html/node": "^0.16.4"
   },
   "keywords": [
     "vite",
